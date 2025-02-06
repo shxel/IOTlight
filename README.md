@@ -178,4 +178,5 @@ This project is licensed under the MIT License.
 **Documentation Version**: 2.1.0  
 **Last Updated**: 2023-11-15  
 **Project Maintainer**: Mohammad Amin Zakouri 
+
 **Hardware Compatibility**: ESP32-WROOM, ESP8266-12F
